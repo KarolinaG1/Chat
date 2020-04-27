@@ -43,6 +43,7 @@ public class Network {
         try {
             socket = new DatagramSocket();
             friendsAddress = InetAddress.getByName(ip);
+            //??
         } catch (SocketException | UnknownHostException e) {
             System.out.println("Unable to start client: " + e);
             return false;
