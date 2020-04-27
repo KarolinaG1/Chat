@@ -1,3 +1,2 @@
-# Chat
-Zadanie nr 2 - networking
+# Zadanie nr 2 - networking
  Dostałeś niekompletną i nie w pełni działającą aplikację, która ma zapewnić komunikację, poprzez czat, dwóm osobom. Twoim pierwszym zadaniem jest poprawnie zaimplementować metodę startServer() w klasie Network. Następnie powinieneś stworzyć w tej samej klasie metodę message() - jej dokładny opis znajdziesz już w samym kodzie. Zmian powinieneś dokonać tylko w części sieciowej, sam czat działa bez zarzutów. (Jest tam jedynie wykomentowana metoda message(), którą musisz wcześniej zaimplementować.) W jednej z metod klasy Network znajduje się również jeden błąd logiczny, przez który mimo poprawności reszty kodu nie nastąpi wymiana wiadomości. 
